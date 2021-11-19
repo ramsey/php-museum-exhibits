@@ -1,0 +1,4 @@
+htdocs/logs/*
+
+!htdocs/logs
+!htdocs/logs/.gitkeep
