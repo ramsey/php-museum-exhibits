@@ -24,7 +24,10 @@ with the exhibit at:
 
 <http://localhost:8000/cgi-bin/php.cgi>
 
-For example, try <http://localhost:8000/cgi-bin/php.cgi/sum.html?a=3&b=2&c=1>
+For example, try the following:
+
+* <http://localhost:8000/cgi-bin/php.cgi/index.html> (showing the output of `phpinfo()`)
+* <http://localhost:8000/cgi-bin/php.cgi/sum.html?a=3&b=2&c=1>
 
 You may add to or modify the contents of pages in `htdocs/` and view them using
 the CGI script. For example, if you add a file named `example.html` to the
