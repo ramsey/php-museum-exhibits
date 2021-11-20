@@ -1,0 +1,10 @@
+Name: php_module
+ConfigStart
+	RULE_WANTHSREGEX=no
+	LIBS="-Lmodules/extra -L../modules/extra -lphp \
+		    \
+		    \
+		 -lcrypt -lm     \
+		     \
+		 $LIBS
+ConfigEnd

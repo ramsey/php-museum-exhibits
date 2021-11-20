@@ -1,3 +1,4 @@
 # PHP Museum Exhibits
 
-* [PHP 1](php1)
+* [PHP 1](php1), Personal Home Page Tools
+* [PHP 2](php2), PHP/FI
