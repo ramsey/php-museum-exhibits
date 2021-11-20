@@ -1,10 +1,11 @@
-<html>
-    <head>
-        <title>PHP Tools <!--$version--></title>
-    </head>
-    <body>
-        <h1>Welcome!</h1>
-        <p>This is PHP Tools version <!--$version-->.</p>
-        <p>You are viewing file <!--$filename-->.</p>
-    </body>
-</html>
+<title>Personal Home Page Tools</title>
+<h1>Welcome!</h1>
+<p>This is PHP Tools version <!--$version-->.</p>
+<p>You are viewing <!--$filename-->.</p>
+<p>You are using <!--$short_browser-->.</p>
+
+<form action="/cgi-bin/phpl.cgi?display.html" method=POST>
+    Name: <input type="text" name="name"><br>
+    Age: <input type="text" name="age"><br>
+    <input type="submit">
+</form>

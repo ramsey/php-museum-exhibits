@@ -29,3 +29,10 @@ the CGI script. For example, if you add a file named `example.html` to the
 `htdocs/` folder, you can view it using the PHP Tools by going to:
 
 <http://localhost:8000/cgi-bin/phpl.cgi?example.html>
+
+## More Information
+
+Bálint Juhász published an excellent article where he takes a look at PHP Tools
+and discusses some of its features and underlying source code. Check it out:
+
+* [Revive PHP Tools — A journey to the ‘90s](https://balint-juhasz.medium.com/revive-php-tools-a-journey-to-the-90s-9cb51ef77d6d)
