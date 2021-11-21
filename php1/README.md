@@ -22,13 +22,13 @@ Then, run the exhibit:
 While the Docker container is running, you will be able to view and interact
 with the exhibit at:
 
-<http://localhost:8000/cgi-bin/phpl.cgi?index.html>
+<http://localhost:8001/cgi-bin/phpl.cgi?index.html>
 
 You may add to or modify the contents of pages in `htdocs/` and view them using
 the CGI script. For example, if you add a file named `example.html` to the
 `htdocs/` folder, you can view it using the PHP Tools by going to:
 
-<http://localhost:8000/cgi-bin/phpl.cgi?example.html>
+<http://localhost:8001/cgi-bin/phpl.cgi?example.html>
 
 ## More Information
 

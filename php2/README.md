@@ -22,20 +22,20 @@ Then, run the exhibit:
 While the Docker container is running, you will be able to view and interact
 with the exhibit at:
 
-<http://localhost:8000/cgi-bin/php.cgi>
+<http://localhost:8002/cgi-bin/php.cgi>
 
 For example, try the following:
 
-* <http://localhost:8000/cgi-bin/php.cgi/index.html> (showing the output of `phpinfo()`)
-* <http://localhost:8000/cgi-bin/php.cgi/sum.html?a=3&b=2&c=1>
+* <http://localhost:8002/cgi-bin/php.cgi/index.html> (showing the output of `phpinfo()`)
+* <http://localhost:8002/cgi-bin/php.cgi/sum.html?a=3&b=2&c=1>
 
 You may add to or modify the contents of pages in `htdocs/` and view them using
 the CGI script. For example, if you add a file named `example.html` to the
 `htdocs/` folder, you can view it using the PHP Tools by going to:
 
-<http://localhost:8000/cgi-bin/php.cgi/example.html>
+<http://localhost:8002/cgi-bin/php.cgi/example.html>
 
 ## PHP/FI Documentation
 
 The full documentation page for PHP/FI is included in this exhibit. You may view
-it at <http://localhost:8000/doc/>.
+it at <http://localhost:8002/doc/>.

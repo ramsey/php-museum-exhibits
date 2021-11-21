@@ -27,15 +27,15 @@ Then, run the exhibit:
 While the Docker container is running, you will be able to view and interact
 with the exhibit at:
 
-<http://localhost:8000/cgi-bin/php/index.html>
+<http://localhost:8003/cgi-bin/php/index.html>
 
 You may add to or modify the contents of pages in `htdocs/` and view them using
 the CGI script. For example, if you add a file named `example.html` to the
 `htdocs/` folder, you can view it using the PHP Tools by going to:
 
-<http://localhost:8000/cgi-bin/php/example.html>
+<http://localhost:8003/cgi-bin/php/example.html>
 
 ## PHP 3 Documentation
 
 The full documentation page for PHP 3 is included in this exhibit. You may view
-it at <http://localhost:8000/cgi-bin/php/doc/manual.php3>.
+it at <http://localhost:8003/cgi-bin/php/doc/manual.php3>.
